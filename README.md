@@ -39,4 +39,4 @@ View Demo : https://meaniketpatel.github.io/todo-list/
 
 ![UI](UI.png)
 ![Validation](Validation.png)
-![Working](working.png)
+![Working](Working.png)
